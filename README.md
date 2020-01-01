@@ -12,7 +12,7 @@
 **Fetch from upstream**
 > git fetch upstream
 
-**Merge the changes from upstream/master into your local master branch.**
+**Merge the changes from upstream/master into your local master branch**
 > git pull upstream master
 
 
