@@ -12,8 +12,11 @@
 **Fetch from upstream**
 > git fetch upstream
 
-**Merge the changes from upstream/master into your local master branch.**
+**Merge the changes from upstream/master into your local master branch**
 > git pull upstream master
+
+**Compare fork file with main stream in GitHub**
+> https://github.com/[YOUR_USERNAME]/Code-Ground/compare/master...[MAIN_STREAM_USERNAME]:master
 
 
 
