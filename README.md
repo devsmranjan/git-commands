@@ -1,4 +1,4 @@
-> **Git Shortcuts**
+***Git Shortcuts***
 
 
 
